@@ -1,5 +1,5 @@
 ## Desafio Git e Github Markdown DIO
-Este repositório foi criado para práticas do desafio DIO. 
+_Este repositório foi criado para práticas do desafio DIO._
 
 ### Conteúdo do desafio:
 <br>
@@ -24,3 +24,14 @@ Este repositório foi criado para práticas do desafio DIO.
 - Issue submetido pelo colaborador.
 - Alterações incluídas no arquivo README.md utilizando a branch novaBranch.
 - Solicitando pull request.
+- Pull request aceito.
+- Arquivo index.html criado na branch novaBranch.
+- Pull request efetuado.
+- Realizado o merge.
+<br>
+<br>
+
+
+
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="128px">
+          
