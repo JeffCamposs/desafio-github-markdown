@@ -35,5 +35,8 @@ _Este repositório foi criado para práticas do desafio DIO._
 - Linguagem Markdown utilizada.
 
 <br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="128px">
+<center>
+<h2>Desafio finalizado</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="128px"></center>
           
