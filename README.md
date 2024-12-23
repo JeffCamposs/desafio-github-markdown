@@ -20,3 +20,4 @@ Este repositório foi criado para práticas do desafio DIO.
 
 - Colaborador adicionado ao repositório: JeffCamposBL.
 - Projeto clonado no usuário principal.
+- Projeto clonado no colaborador.
