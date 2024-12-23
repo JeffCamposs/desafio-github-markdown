@@ -21,3 +21,6 @@ Este repositório foi criado para práticas do desafio DIO.
 - Colaborador adicionado ao repositório: JeffCamposBL.
 - Repositório clonado no usuário principal.
 - Repositório clonado no colaborador.
+- Issue submetido pelo colaborador.
+- Alterações incluídas no arquivo README.md utilizando a branch novaBranch.
+- Solicitando pull request.
