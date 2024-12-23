@@ -30,8 +30,5 @@ _Este repositório foi criado para práticas do desafio DIO._
 - Realizado o merge.
 <br>
 <br>
-
-
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="128px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="128px">
           
